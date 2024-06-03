@@ -11,7 +11,9 @@ Use:
 
 Start it and copy your stream key!
 
-Your Streamlabs for iOS or Android (OR ANYTHINH ELSE WITH CUSTOM RTMP) StreamKey: username?key=yourcopiedkey
+type this in your Streamlabs for iOS or Android (OR ANYTHINH ELSE WITH CUSTOM RTMP) under StreamKey: username?key=yourcopiedkey
+
+Tip: **this key changes everytime you reboot the auth server...**
 
 Add your RTMP to OBS:
 ![image](https://github.com/DieserGhost/IRLStream-RTMP/assets/144170441/10977e84-0755-4042-81a0-df9e9a0a7670)
