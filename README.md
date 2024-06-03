@@ -20,6 +20,8 @@ type this in your Streamlabs for iOS or Android (OR ANYTHINH ELSE WITH CUSTOM RT
 Tip: **this key changes everytime you reboot the auth server...**
 
 Add your RTMP to OBS:
+
+
 ![image](https://github.com/DieserGhost/IRLStream-RTMP/assets/144170441/10977e84-0755-4042-81a0-df9e9a0a7670)
 
 ![image](https://github.com/DieserGhost/IRLStream-RTMP/assets/144170441/ca5e67b7-7722-4e92-be66-8659c8e29ecd)
