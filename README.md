@@ -26,5 +26,6 @@ Add your RTMP to OBS:
 
 ![image](https://github.com/DieserGhost/IRLStream-RTMP/assets/144170441/07a4b488-f010-4fa6-9dc0-520d39b7a41e)
 
+note: you can put these project also on the LiveU Solo but you need a Portforward under the port **1935**
 
 **Much credits to: https://github.com/Abdisalan/blog-code-examples/tree/main/live-stream-part-1**
