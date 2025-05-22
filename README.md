@@ -2,7 +2,7 @@
 
 Why?
 
-- I don't develop in NodeJS anymore... I only code with JavaScript for my Website!
+- I don't develop in NodeJS anymore... I only code in JavaScript for my Website!
 
 # IRL RTMP
 
